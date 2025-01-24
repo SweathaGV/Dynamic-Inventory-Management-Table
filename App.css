@@ -1,0 +1,43 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1, h3 {
+  color: #333;
+}
+
+input, select, button {
+  margin: 10px;
+  padding: 5px;
+}
+
+button {
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+tr:hover {
+  background-color: #f4f4f4;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
